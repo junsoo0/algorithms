@@ -1,2 +1,2 @@
 # algorithms
-a set of algorithms using C++
+A set of algorithms using C++
