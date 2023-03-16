@@ -1,7 +1,7 @@
 #include <vector>
 using namespace std;
 
-void binsearch(int n, vector<int> S, int x, int& location) {
+void binsearch(int n, vector<int>& S, int x, int& location) {
     int low, high, mid;
     low = 1; high = n;
     location = 0;
