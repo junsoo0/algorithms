@@ -1,2 +1,2 @@
 # algorithms
-A set of algorithms using C++
+A set of algorithms written in C++ & Python
